@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7EA52C05-2A90-4E42-942A-358EB90DD32D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9EF697F-C65D-4DCB-A741-F67E42E29831"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/WeatherViews/Home.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC77AEF1-A46C-4390-B71A-BEF7D481B37E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/WeatherViews/Home.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4520FD10-EDF2-40D0-ABD3-9F4395A615D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/WeatherViews/SearchView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "656B1B1A-546F-4F49-B61F-1DBB5D2F204C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/WeatherViews/SearchView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "656B1B1A-546F-4F49-B61F-1DBB5D2F204C - 8635ed862aa8a95a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0&gt;)&gt; in CourseWork2Starter.SearchView.body.getter : some"
+                  moduleName = "CourseWork2Starter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jdeviotechnolab/Downloads/CWK2Starter/CourseWork2Starter/WeatherViews/SearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "656B1B1A-546F-4F49-B61F-1DBB5D2F204C - 3588c8d740a32012"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async throws -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0&gt;)&gt; in CourseWork2Starter.SearchView.body.getter : some"
+                  moduleName = "CourseWork2Starter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jdeviotechnolab/Downloads/CWK2Starter/CourseWork2Starter/WeatherViews/SearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "656B1B1A-546F-4F49-B61F-1DBB5D2F204C - 1f10f9fc18237544"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0&gt;)&gt; in CourseWork2Starter.SearchView.body.getter : some"
+                  moduleName = "CourseWork2Starter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jdeviotechnolab/Downloads/CWK2Starter/CourseWork2Starter/WeatherViews/SearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "656B1B1A-546F-4F49-B61F-1DBB5D2F204C - d37e732900f95f43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async throws -&gt; () in closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0&gt;)&gt; in CourseWork2Starter.SearchView.body.getter : some"
+                  moduleName = "CourseWork2Starter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jdeviotechnolab/Downloads/CWK2Starter/CourseWork2Starter/WeatherViews/SearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B0CE0AE-6ED4-4D46-8A97-696F97583BFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/WeatherModel/ModelData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "loadData(lat:lon:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B0CE0AE-6ED4-4D46-8A97-696F97583BFF - 5cd53e207ece1fd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for CourseWork2Starter.ModelData.loadData(lat: Swift.Double, lon: Swift.Double) async throws -&gt; CourseWork2Starter.Forecast"
+                  moduleName = "CourseWork2Starter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jdeviotechnolab/Downloads/6COSC004W_w1801969_aakash_mor/CourseWork2Starter/WeatherModel/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "9B0CE0AE-6ED4-4D46-8A97-696F97583BFF - 17e309d61bcda9f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable () async -&gt; CourseWork2Starter.AirPollution in CourseWork2Starter.ModelData.loadData(lat: Swift.Double, lon: Swift.Double) async throws -&gt; CourseWork2Starter.Forecast"
+                  moduleName = "CourseWork2Starter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jdeviotechnolab/Downloads/6COSC004W_w1801969_aakash_mor/CourseWork2Starter/WeatherModel/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C660705-56B5-41EB-86CC-6D0F3BE22185"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/WeatherViews/SearchView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EDA01DB-0D3A-4B78-8437-6F550DA55CE6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/Helpers/LocationHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getLocFromLatLong(lat:lon:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3226B8A1-3FF1-4491-B53D-B567D379B321"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/Helpers/LocationHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getLocFromLatLong(lat:lon:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14DD8505-3E90-46D2-8D55-C8449516C55F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/Helpers/LocationHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getLocFromLatLong(lat:lon:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15431415-A4A7-483B-AA57-81926AB44A93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/Helpers/LocationHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getLocFromLatLong(lat:lon:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EECEE13A-C13D-41A5-A302-3849ABBFE3A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/WeatherModel/ModelData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "loadAirPollutionData(lat:lon:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EECEE13A-C13D-41A5-A302-3849ABBFE3A0 - bd56acb5e1a6f414"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CourseWork2Starter.ModelData.loadAirPollutionData(lat: Swift.Double, lon: Swift.Double) async throws -&gt; CourseWork2Starter.AirPollution"
+                  moduleName = "CourseWork2Starter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jdeviotechnolab/Downloads/6COSC004W_w1801969_aakash_mor/CourseWork2Starter/WeatherModel/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "EECEE13A-C13D-41A5-A302-3849ABBFE3A0 - 42f6c020afca45ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in CourseWork2Starter.ModelData.loadAirPollutionData(lat: Swift.Double, lon: Swift.Double) async throws -&gt; CourseWork2Starter.AirPollution"
+                  moduleName = "CourseWork2Starter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jdeviotechnolab/Downloads/6COSC004W_w1801969_aakash_mor/CourseWork2Starter/WeatherModel/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1017E748-C6EB-4883-B281-4D6816F17FBA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/WeatherModel/ModelData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "loadAirPollutionData(lat:lon:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1017E748-C6EB-4883-B281-4D6816F17FBA - bd56acb5e1a6f52d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CourseWork2Starter.ModelData.loadAirPollutionData(lat: Swift.Double, lon: Swift.Double) async throws -&gt; CourseWork2Starter.AirPollution"
+                  moduleName = "CourseWork2Starter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jdeviotechnolab/Downloads/6COSC004W_w1801969_aakash_mor/CourseWork2Starter/WeatherModel/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "1017E748-C6EB-4883-B281-4D6816F17FBA - bd56acb5e1a6f52d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CourseWork2Starter.ModelData.loadAirPollutionData(lat: Swift.Double, lon: Swift.Double) async throws -&gt; CourseWork2Starter.AirPollution"
+                  moduleName = "CourseWork2Starter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jdeviotechnolab/Downloads/6COSC004W_w1801969_aakash_mor/CourseWork2Starter/WeatherModel/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "784">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BEDBB76-F93C-4288-BE45-E7CF7C7FA9DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/WeatherModel/ModelData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "loadAirPollutionData(lat:lon:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6BEDBB76-F93C-4288-BE45-E7CF7C7FA9DE - 673005ca29ce271c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CourseWork2Starter.ModelData.loadAirPollutionData(lat: Swift.Double, lon: Swift.Double) async throws -&gt; CourseWork2Starter.AirPollution"
+                  moduleName = "CourseWork2Starter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jdeviotechnolab/Downloads/6COSC004W_w1801969_aakash_mor/CourseWork2Starter/WeatherModel/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "6BEDBB76-F93C-4288-BE45-E7CF7C7FA9DE - 4b473832e4d45d1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for CourseWork2Starter.ModelData.loadAirPollutionData(lat: Swift.Double, lon: Swift.Double) async throws -&gt; CourseWork2Starter.AirPollution"
+                  moduleName = "CourseWork2Starter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jdeviotechnolab/Downloads/6COSC004W_w1801969_aakash_mor/CourseWork2Starter/WeatherModel/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "6BEDBB76-F93C-4288-BE45-E7CF7C7FA9DE - 61b81b1805928de3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CourseWork2Starter.ModelData.loadAirPollutionData(lat: Swift.Double, lon: Swift.Double) async throws -&gt; CourseWork2Starter.AirPollution"
+                  moduleName = "CourseWork2Starter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jdeviotechnolab/Downloads/6COSC004W_w1801969_aakash_mor/CourseWork2Starter/WeatherModel/ModelData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56A0EBC5-DFD0-4F77-A5BD-3382582ABCFB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/WeatherModel/ModelData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "loadAirPollutionData(lat:lon:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9FCFBEB-AE4F-407C-B563-4F3D50969DC7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/WeatherModel/ModelData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "loadAirPollutionData(lat:lon:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
